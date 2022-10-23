@@ -390,6 +390,12 @@ header .navbar ul li a:hover{
     padding-right: 1rem;
     color:var(--yellow);
 }
+.BLOGPOSTS .row .content .title{
+    text-transform: uppercase;
+    color:#fff;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
 
 .top{
     position: fixed;
